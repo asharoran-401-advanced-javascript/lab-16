@@ -3,7 +3,7 @@
 ## Auther : As-har Aloran
 
 ## Links and Resources
-* (pull request) : [] 
+* (pull request) : [https://github.com/asharoran-401-advanced-javascript/lab-16/pull/1] 
 * (ci/cd) : [https://github.com/asharoran-401-advanced-javascript/lab-16/actions] 
 
 ## How to initialize/run your application (where applicable)

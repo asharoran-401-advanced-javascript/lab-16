@@ -3,7 +3,7 @@
 'use strict';
 
 const fs = require('fs');
-const events = require('../lib/events.js');
+// const events = require('../lib/events.js');
 const log = require('../lib/logger.js');
 
 
