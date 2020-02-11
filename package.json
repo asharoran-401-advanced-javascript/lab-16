@@ -1,0 +1,26 @@
+{
+  "name": "lab-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharoran-401-advanced-javascript/lab-16.git"
+  },
+  "author": "As-har oran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asharoran-401-advanced-javascript/lab-16/issues"
+  },
+  "homepage": "https://github.com/asharoran-401-advanced-javascript/lab-16#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  }
+}
