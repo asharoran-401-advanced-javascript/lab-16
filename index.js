@@ -5,7 +5,8 @@ const {readFile , writeFile} = require('./lib/app.js');  // require a two functi
 const event = require('./lib/events.js');
 require('./lib/logger.js');
 
-let file = `${__dirname}/lib/logger.js`;
+// let argv = process.argv;
+let file = `${__dirname}/data/person.json`;
 
 const editFile = () => { // use the Promise here //  I use lab 3 as a refferance
   readFile(file)
@@ -17,4 +18,3 @@ const editFile = () => { // use the Promise here //  I use lab 3 as a refferance
 };
 
 editFile();
-
